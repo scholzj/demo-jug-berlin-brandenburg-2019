@@ -1,10 +1,10 @@
 # Developing and running Kafka based applications on Kubernetes
 
-This is the repository with the demo from the JUB Berlin-BRandenburg on 18th June 2019.
+This is the repository with the demo from the JUB Berlin-Brandenburg on 18th June 2019.
 
 ## Slides
 
-TODO: SLides can be found [here](http://here).
+Slides can be found [here](https://docs.google.com/presentation/d/1rGefQ-CrJMYIlCwoKzXH0fBrUqdBoESq3UcYaCxCa3Q/edit?usp=sharing).
 
 ## Demo
 
